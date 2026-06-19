@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Soni 👋
 
-<!--
-**isoni148/isoni148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Frontend Developer from India.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML
+* CSS
+* JavaScript
+* Git
+* GitHub
+
+## Projects
+
+* Portfolio Website
+* Todo App
+* Employee Management System
+* Expense Tracker
+* Weather App
+
+## Currently Learning
+
+* Advanced JavaScript
+* SQL
+* C#
+* ASP.NET MVC
+
+## Contact
+
+Email: [sonitheres8198@gmail.com](mailto:sonitheres8198@gmail.com)
+
